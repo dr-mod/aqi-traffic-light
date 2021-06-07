@@ -1,4 +1,4 @@
-# aqi-traffic-light
+# AQI traffic light
 A traffic light that shows currentl AQI (air quality index)
 This project is a part of a wider set of software tools to monitor air parameters and weather.
 
